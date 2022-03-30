@@ -1,0 +1,17 @@
+current directory: /home/kiwitech/projects/univ_app/vendor/bundle/gems/racc-1.6.0/ext/racc/cparse
+/home/kiwitech/.rvm/rubies/ruby-2.5.1/bin/ruby -r ./siteconf20220330-15212-l3npqn.rb extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /home/kiwitech/projects/univ_app/vendor/bundle/gems/racc-1.6.0/ext/racc/cparse
+make "DESTDIR=" clean
+
+current directory: /home/kiwitech/projects/univ_app/vendor/bundle/gems/racc-1.6.0/ext/racc/cparse
+make "DESTDIR="
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/kiwitech/projects/univ_app/vendor/bundle/gems/racc-1.6.0/ext/racc/cparse
+make "DESTDIR=" install
+/usr/bin/install -m 0755 cparse.so ./.gem.20220330-15212-h5edaz/racc
